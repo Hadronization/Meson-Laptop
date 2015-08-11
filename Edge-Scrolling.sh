@@ -34,6 +34,3 @@ done
 # NOTE: Existing touchpad driver is unable to report absolute positions! 
 # Listens for mouse inputs & scrolls the window where cursor is located. 
 # This script requires the package(s) "sudo apt-get install xdotool evtest". 
-
-
-
