@@ -2,6 +2,7 @@
 
 # Listen for keyboard inputs & disable touchpad for 1s. 
 
+
 while :
 do
 	# read -t 1 -n 1 key 
@@ -15,5 +16,5 @@ do
 	fi
 done
 
-# Ideas taken from various sources. Thanks Obama! 
 
+# Ideas taken from various sources. Thanks Obama! 
